@@ -1,0 +1,21 @@
+#search-input{
+    margin-left: 10px;
+}
+
+.search-btn{
+    margin-left: 5px;
+    &:hover{
+        cursor: pointer;
+    }
+}
+
+.search-wrapper{
+    display: block;
+    padding: 10px;
+    img{
+        margin-top: 20px;  
+    }
+    span{
+        margin-left: 10px;
+    }
+}
